@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="40187251-d53a-4159-8fdb-4b60e4e3f20a" name="211">
+        <fileTransfer rootFolder="/home/chaunm/workspace/hackathon" accessType="SFTP" host="211" port="22" sshConfigId="f94c512b-7527-4620-aa6f-5a3483eb6914" sshConfig="chaunm@211:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
